@@ -1,0 +1,177 @@
+﻿@media  screen and (max-width: 100%){
+
+  textarea#shadyText{
+    width: 70%;
+    position: relative;
+  }
+}
+
+.backGround{
+  background: url(http://cs631720.vk.me/v631720212/34dbd/OSTu1_mDXEo.jpg);
+  background-color: #c7b39b; 
+}
+
+header{
+	color: #a6e3d7;
+	font-size: 350%;
+    text-align: center;
+    padding-right: 35%;
+    font-family: "Algerian";
+}
+
+#chat{
+  background-color: rgba(72, 74, 60, 0.5);
+  border: 1px solid #48ffe4;
+  height: 450px;
+  width: 54%;
+  margin-left: 5%;
+  overflow-x: none; 
+  overflow-y: auto;
+  overflow-style: marquee-block;
+  border-radius: 25px;
+  margin: 0 auto;
+}
+
+p{
+  margin: 10px;
+}
+
+.button_rewrite{
+  width: 30px;
+  height: 30px;
+  margin-right: 0.7%;
+  background: url("http://c.dryicons.com/images/icon_sets/polygon_icons/png/256x256/pencil.png");
+  background-size: cover;
+  line-height: 40px;
+  font-size: 40px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+
+.button_delete{
+  width: 25px;
+  height: 25px;
+  background: url("http://st2.depositphotos.com/3921439/7129/v/950/depositphotos_71292869-The-trashcan-icon.-Dustbin-symbol.-Flat-.jpg");
+  background-size: cover;
+  line-height: 40px;
+  font-size: 40px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+
+.text {
+  font-style: italic;
+  text-align: left;
+}
+
+.time{
+  color: #717580;
+  font-size:24px;
+  text-align: center;
+
+}
+.addMessage{
+  border-radius: 50px;
+  border-left: 1px solid #469148;
+  border-right: 1px solid #469148;
+  border-bottom: 1px solid;
+  height: 100px auto;
+  width: 35%;
+  margin-left:23%;
+  background: #469148;
+  margin: 15 auto;
+  padding-bottom: 25px;
+}
+
+.myName{
+  border-radius: 45px;
+  padding: 10px;
+  color: white;
+  margin-left: 15px;
+  margin-bottom: 0px; 
+  font-size: 40px;
+  background: #469148;
+  width: 35%;
+  height: 15%; 
+}
+
+textarea {
+  background-color: rgba(100%,100%,80%,.5);
+  margin-left: 25px;
+  width: 75%;
+  word-wrap: break-word; 
+  font:12px Verdana;color: #6f0d66;
+  background-color: #86ad89;
+  scrollbar-3dlight-color:#fff;
+  scrollbar-arrow-color:#fff;
+  scrollbar-highlight-color: #fff;
+  scrollbar-face-color:#fff;
+  scrollbar-shadow-color:#fff;
+  scrollbar-darkshadow-color:#fff;
+  scrollbar-track-color: #fff;
+  resize: vertical;
+  overflow: auto;
+}
+
+footer{
+  border-bottom:2px solid #42ff88;
+  width: 10%;
+  height: 1%;
+  margin-left: 88%;
+  background: #5cb553;
+  padding:5px;
+  margin-top: 90px;
+  color: #2b6f5d;
+  padding-bottom: 5px;
+  font-family: ‘Times New Roman’, Georgia, Helvetica, sans-serif;
+  color: #63366f;
+  font-size:16px;
+  text-align: left;
+}
+.pull-right{
+  float:right;
+}
+.message_box {
+  display: inline-block;
+  padding: 10px;
+  width: 92%;
+  margin-left: 3%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  border-radius: 15px;
+  background-color: #4ad177;
+  color: white;
+  position: center;
+  text-align: center;
+}
+
+#rename{
+  margin-left: 10px;
+}
+.del_message{
+  display: inline-block;
+  padding: 10px;
+  width: 92%;
+  margin-left: 3%;
+  margin-top: 1%;
+  margin-bottom: 1%;
+  border-radius: 15px;
+  background-color: #ff3f41;
+  color: white;
+  position: center;
+  text-align: center;
+}
+.author{
+  font-weight:bold;
+  display: inline-block;  
+}
+.modif{
+  width: 30px;
+  height: 30px;
+  border: none;
+  background-size: cover;
+  background-image: url("https://maxcdn.icons8.com/Color/PNG/24/Security/warning_shield-24.png");
+  text-decoration: none;
+}

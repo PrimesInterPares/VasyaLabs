@@ -1,0 +1,47 @@
+<<<<<<< HEAD
+commit 5f58b1936f45007e77f7b89bd1b5457e50079769
+Author: SKIF <ilia19962008@gmail.com>
+Date:   Tue Feb 23 14:22:08 2016 +0300
+
+    add priject chat
+
+commit 6db4bf56712d1acc0ec1a329265aa06e4b1d4073
+Author: SKIF <ilia19962008@gmail.com>
+Date:   Tue Feb 23 14:21:32 2016 +0300
+
+    add new status for chat project
+
+commit d721b0ae6f8afa37c1ef03df5ec6a033f5b681f9
+Author: SKIF <ilia19962008@gmail.com>
+Date:   Tue Feb 23 14:19:29 2016 +0300
+
+    add .gitignore to a chat project
+=======
+commit 7bfbae84111d81133262bfc938d0793d38981df5
+Author: SKIF <ilia19962008@gmail.com>
+Date:   Mon Feb 15 20:55:17 2016 +0300
+
+    Update status
+
+commit 38463a9ba3ea44c61cdd4b6c0da1c0fabc863da7
+Author: SKIF <ilia19962008@gmail.com>
+Date:   Mon Feb 15 20:53:19 2016 +0300
+
+    Add .gitignore
+
+C:\SampleProjects\HelloWorld>git add log.txt
+fatal: pathspec 'log.txt' did not match any files
+
+C:\SampleProjects\HelloWorld>git log
+commit 7bfbae84111d81133262bfc938d0793d38981df5
+Author: SKIF <ilia19962008@gmail.com>
+Date:   Mon Feb 15 20:55:17 2016 +0300
+
+    Update status
+
+commit 38463a9ba3ea44c61cdd4b6c0da1c0fabc863da7
+Author: SKIF <ilia19962008@gmail.com>
+Date:   Mon Feb 15 20:53:19 2016 +0300
+
+    Add .gitignore
+>>>>>>> de28fe6bf076e5611394478da3884e7590de25fc
